@@ -1,23 +1,29 @@
-# Week 5: Advanced Data Manipulation with Pandas
+# Week 5 – Sales Data Analysis
 
-## Objective
-Perform advanced data manipulation using pandas including loading data, creating calculated columns, and basic analysis.
+## Project Overview
+This project performs data analysis on a sales dataset using Python and Pandas.
+The goal is to analyze sales performance and visualize important insights.
 
-## Project Structure
-- main.py : Main analysis script
-- data/sales_data.csv : Dataset
-- requirements.txt : Dependencies
+## Dataset
+- File: sales_data.csv
+- Columns: Date, Product, Quantity, Price
 
-## Steps Performed
-1. Loaded dataset using pandas
-2. Displayed basic information
-3. Created Total_Sales column
-4. Calculated overall sales
+## Analysis Performed
+- Loaded and explored dataset
+- Checked missing values
+- Created total sales column
+- Calculated total revenue
+- Analyzed sales by product
+- Analyzed monthly sales trends
 
-## Output
-The script prints dataset overview and total sales.
+## Visualizations
+- Bar Chart: Sales by Product
+- Line Chart: Monthly Sales Trend
 
 ## Tools Used
 - Python
 - Pandas
-- GitHub
+- Matplotlib
+
+## Outcome
+The analysis helped identify top-selling products and sales trends over time.
