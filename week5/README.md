@@ -17,8 +17,12 @@ The goal is to analyze sales performance and visualize important insights.
 - Analyzed monthly sales trends
 
 ## Visualizations
-- Bar Chart: Sales by Product
-- Line Chart: Monthly Sales Trend
+### 1. Sales by Category (Bar Chart)
+![Bar Chart](visualization/bar_chart.png)
+
+### 2. Sales Trend Over Time (Line Chart)
+![Line Chart](visualization/line_chart.png)
+
 
 ## Tools Used
 - Python
